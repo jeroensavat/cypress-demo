@@ -1,0 +1,17 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run cypress open",
+    "ci": "npx cypress run --record --key 49f72946-2325-4653-b349-7cac901d1c43"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.2.0",
+    "cypress-plugin-snapshots": "^1.2.6"
+  }
+}

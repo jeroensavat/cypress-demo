@@ -1,0 +1,4 @@
+{
+  "projectId": "yu7gw5",
+  "ignoreTestFiles": ["**/__snapshots__/*", "**/__image_snapshots__/*"]
+}
